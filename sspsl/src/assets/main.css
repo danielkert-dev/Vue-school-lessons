@@ -1,0 +1,10 @@
+div {
+    user-select: none;
+      -moz-user-select: none;
+      -webkit-user-select: none;}
+
+mark {
+  background: #3D8BFD!important;
+  color: white;
+  padding: 5px;
+}
